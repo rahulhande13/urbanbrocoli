@@ -7,6 +7,11 @@ import utils.counting as C
 
 print("\nSOME PROBABILITY PROBLEMS\n")
 
+list1 = [1,2,3,4,5]
+list2 = [2,3,4,5]
+list3 = [3,4,5]
+list4 = [4,5]
+
 # Question 1
 print("Q: Find the probability of getting a head when you toss a fair coin?")
 p_head = probability(1, 2)
